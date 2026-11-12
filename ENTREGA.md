@@ -1,0 +1,4 @@
+- Repositorio: https://github.com/Alexgarci1/github-actions-practica
+- CI en main: https://github.com/Alexgarci1/github-actions-practica/actions/runs/43303266533
+- Pull request solo de README: https://github.com/Alexgarci1/github-actions-practica/pull/1
+- CI lanzada a mano: https://github.com/Alexgarci1/github-actions-practica/actions/runs/43304835103
